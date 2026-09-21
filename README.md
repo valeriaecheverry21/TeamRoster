@@ -1,11 +1,11 @@
-# Panel de Administración - RRHH Marketplace
+# TeamRoster - Panel de Administración RRHH
 
 Aplicación full-stack para la gestión de empleados internos (CRUD) con React, Node.js, Express, Sequelize y SQLite.
 
 ## Estructura del proyecto
 
 ```
-MarketPlace-Meli/
+TeamRoster/
 ├── backend/           # API REST con Node.js + Express + Sequelize
 │   ├── src/
 │   │   ├── config/    # Configuración de base de datos
